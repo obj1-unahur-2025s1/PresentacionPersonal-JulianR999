@@ -9,6 +9,6 @@
 
 
 ### Otra Información
-Esta es mi primera vez usando GitHub y Visual Studio Code, y estoy con muchas ganas de aprender. Siempre escuché que GitHub es clave para manejar proyectos y trabajar en equipo, así que me interesa empezar a familiarizarme con su uso desde ahora.
+Esta es mi primera vez usando GitHub y Visual Studio Code, y la verdad estoy bastante entusiasmado con todo lo que puedo aprender. Siempre escuché que GitHub es clave para manejar proyectos y trabajar en equipo, sobre todo por el tema del control de versiones, así que quiero empezar a usarlo desde ahora para irme acostumbrando. Me interesa entender bien cómo subir archivos, cómo crear ramas y también cómo colaborar con otras personas en un mismo proyecto, aunque todavía estoy aprendiendo de a poco.
 
-También empecé a probar Wollok con VS Code, y la verdad me está resultando bastante interesante. Me gusta poder practicar programación orientada a objetos de una forma más llevadera, y además crear proyectos simples, como pequeños juegos o simulaciones. La idea es ir aprendiendo mientras hago cosas que me diviertan y me ayuden a crecer como programador.
+También estuve probando Wollok con VS Code, y me viene gustando bastante. Me parece una buena forma de practicar programación orientada a objetos sin que se vuelva tan pesado como otros lenguajes. Además, quiero aprovechar para hacer proyectos simples, como pequeños juegos o simulaciones, que me ayuden a poner en práctica lo que voy aprendiendo. La idea es ir mejorando con el tiempo, mientras hago cosas que me diviertan y me sirvan para seguir aprendiendo programación.
